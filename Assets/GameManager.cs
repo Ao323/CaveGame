@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 using UnityEngine.XR;
-using static UnityEngine.Rendering.VirtualTexturing.Debugging;
+//using static UnityEngine.Rendering.VirtualTexturing.Debugging;
 
 public enum GameState { None, TitleMenu, Playing}
 
